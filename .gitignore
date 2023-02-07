@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Adapter_Pattern/.vs/Adapter_Pattern
+/Adapter_Pattern/obj
