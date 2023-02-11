@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿//structural DP
 using Adapter;
 IAdaptee adaptee = new Adaptee();
 ITarget adapter = new Adapter.Adapter(adaptee);
